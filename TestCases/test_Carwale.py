@@ -13,15 +13,13 @@ from Utility.LogUtil import Logger
 log = Logger(__name__,logging.INFO)
 
 
-class Test_CarWake(BaseFatherTest):
+class Test_CarWale(BaseFatherTest):
 
     @pytest.mark.parametrize("carBrand,carTitle",dataProvider.get_data("car","../Excel/carwale.xlsx"))
     def test_SelectCar(self,carBrand,carTitle):
         home = HomePage(self.driver)
         car = CarBasePage(self.driver)
-
         print(carBrand)
-
         if carBrand == "Maruti":
             home.go_to_new_car().goTo_maruti()
             title=car.get_title()
@@ -52,7 +50,7 @@ class Test_CarWake(BaseFatherTest):
             print("Car Title is : ", title)
             assert title == carTitle, "MisMatched"
             car.get_price_name()
-        time.sleep(3)
+        time.sleep(10)
 
 
 

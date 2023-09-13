@@ -69,3 +69,206 @@
 2023-09-13 11:58:40,589 - BasePage.py:[31] - [INFO] - >Mouse Hover : new_car_xpath
 2023-09-13 11:58:40,699 - BasePage.py:[17] - [INFO] - >Clicking on a Element: find_new_car_xpath
 2023-09-13 11:58:40,983 - BasePage.py:[17] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 11:58:58,484 - BasePage.py:[31] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 11:59:49,319 - BasePage.py:[31] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:00:39,956 - BasePage.py:[31] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:01:30,484 - BasePage.py:[31] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:02:21,756 - BasePage.py:[31] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:02:22,242 - BasePage.py:[17] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:02:22,540 - BasePage.py:[17] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 12:14:20,821 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:14:20,916 - BasePage.py:[24] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:14:21,493 - BasePage.py:[24] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 12:14:28,988 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:14:29,090 - BasePage.py:[24] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:14:29,657 - BasePage.py:[24] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 12:14:36,553 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:14:36,654 - BasePage.py:[24] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:14:37,221 - BasePage.py:[24] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 12:14:44,798 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:14:44,897 - BasePage.py:[24] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:14:45,457 - BasePage.py:[24] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 12:14:52,492 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:14:52,600 - BasePage.py:[24] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:14:53,155 - BasePage.py:[24] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 12:15:04,078 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:15:29,814 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:16:00,541 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:16:01,320 - BasePage.py:[24] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:16:01,604 - BasePage.py:[24] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 12:16:19,538 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:16:45,642 - BasePage.py:[38] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:20:46,383 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:20:46,462 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:20:46,776 - BasePage.py:[19] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 12:21:01,936 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:21:49,719 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:21:49,829 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:21:50,160 - BasePage.py:[19] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 12:22:05,189 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:22:05,320 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:22:05,650 - BasePage.py:[19] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 12:22:20,889 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:22:20,995 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:22:21,254 - BasePage.py:[19] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 12:22:40,396 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:22:40,741 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:22:41,042 - BasePage.py:[19] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 12:23:00,598 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:23:01,088 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:23:01,385 - BasePage.py:[19] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 12:23:20,814 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:23:21,285 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:23:21,536 - BasePage.py:[19] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 12:23:39,646 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:24:30,235 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:28:52,656 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:28:52,767 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:28:53,057 - BasePage.py:[19] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 12:29:10,890 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:29:10,988 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:29:11,235 - BasePage.py:[19] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 12:29:29,644 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:29:29,725 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:29:30,000 - BasePage.py:[19] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 12:29:47,999 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:29:48,106 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:29:48,434 - BasePage.py:[19] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 12:30:06,687 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:30:06,804 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:30:07,134 - BasePage.py:[19] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 12:30:29,445 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:30:29,912 - BasePage.py:[19] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:30:30,176 - BasePage.py:[19] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 12:30:52,262 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:31:43,256 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:32:33,709 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:33:23,929 - BasePage.py:[33] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:48:37,461 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:48:37,561 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:48:37,844 - BasePage.py:[22] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 12:48:55,238 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:48:55,338 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:48:55,597 - BasePage.py:[22] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 12:49:13,806 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:49:13,886 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:49:14,115 - BasePage.py:[22] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 12:49:31,404 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:49:31,480 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:49:31,734 - BasePage.py:[22] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 12:49:48,769 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:50:40,551 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:50:41,016 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:50:41,328 - BasePage.py:[22] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 12:51:04,109 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:51:04,582 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:51:04,824 - BasePage.py:[22] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 12:51:25,533 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:52:17,412 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:53:09,465 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 12:53:09,947 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 12:53:10,190 - BasePage.py:[22] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:18:48,228 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:18:48,334 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:18:48,922 - BasePage.py:[22] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 13:18:56,270 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:18:56,355 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:18:56,912 - BasePage.py:[22] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 13:19:03,844 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:19:03,949 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:19:04,517 - BasePage.py:[22] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 13:19:12,211 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:19:12,346 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:19:12,914 - BasePage.py:[22] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 13:19:22,671 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:19:22,775 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:19:23,388 - BasePage.py:[22] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:19:34,637 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:19:35,406 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:19:35,665 - BasePage.py:[22] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 13:19:46,787 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:19:47,568 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:19:47,851 - BasePage.py:[22] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 13:19:59,310 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:20:00,189 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:20:00,942 - BasePage.py:[22] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 13:20:41,047 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:20:41,839 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:20:42,084 - BasePage.py:[22] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 13:20:53,604 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:20:54,393 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:20:55,146 - BasePage.py:[22] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:24:14,732 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:24:14,889 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:24:15,179 - BasePage.py:[22] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 13:24:33,264 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:24:33,409 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:24:33,765 - BasePage.py:[22] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 13:24:51,240 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:24:51,344 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:24:51,629 - BasePage.py:[22] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 13:25:09,164 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:25:09,269 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:25:09,563 - BasePage.py:[22] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 13:25:27,336 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:25:27,436 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:25:27,724 - BasePage.py:[22] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:25:48,559 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:26:19,931 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:26:51,420 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:27:22,028 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:27:54,512 - BasePage.py:[36] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:27:55,004 - BasePage.py:[22] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:27:55,507 - BasePage.py:[22] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:35:25,784 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:35:25,891 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:35:26,159 - BasePage.py:[20] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 13:35:41,332 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:35:41,444 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:35:41,683 - BasePage.py:[20] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 13:35:56,981 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:35:57,070 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:35:57,367 - BasePage.py:[20] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 13:36:12,275 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:36:12,401 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:36:12,673 - BasePage.py:[20] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 13:36:27,766 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:36:27,847 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:36:28,101 - BasePage.py:[20] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:36:47,121 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:37:19,042 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:37:19,465 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:37:19,858 - BasePage.py:[20] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 13:37:37,561 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:38:08,219 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:38:38,742 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:38:40,659 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:38:40,930 - BasePage.py:[20] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:50:53,806 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:50:53,897 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:50:54,233 - BasePage.py:[20] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 13:51:16,214 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:51:16,305 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:51:16,763 - BasePage.py:[20] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 13:51:38,072 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:51:38,176 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:51:38,483 - BasePage.py:[20] - [INFO] - >Clicking on a Element: tata_xpath
+2023-09-13 13:51:59,740 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:51:59,846 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:52:00,180 - BasePage.py:[20] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 13:52:21,770 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:52:21,889 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:52:22,196 - BasePage.py:[20] - [INFO] - >Clicking on a Element: mahindra_xpath
+2023-09-13 13:52:48,182 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:52:48,652 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:52:48,950 - BasePage.py:[20] - [INFO] - >Clicking on a Element: maruti_xpath
+2023-09-13 13:53:14,865 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:53:15,237 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:53:15,486 - BasePage.py:[20] - [INFO] - >Clicking on a Element: hyundai_xpath
+2023-09-13 13:53:40,263 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:54:11,503 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:54:11,949 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:54:12,192 - BasePage.py:[20] - [INFO] - >Clicking on a Element: toyota_xpath
+2023-09-13 13:54:36,865 - BasePage.py:[34] - [INFO] - >Mouse Hover : new_car_xpath
+2023-09-13 13:54:45,290 - BasePage.py:[20] - [INFO] - >Clicking on a Element: find_new_car_xpath
+2023-09-13 13:54:45,530 - BasePage.py:[20] - [INFO] - >Clicking on a Element: mahindra_xpath

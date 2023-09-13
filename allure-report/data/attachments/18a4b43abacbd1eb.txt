@@ -1,1 +1,0 @@
-INFO     Pages.BasePage:BasePage.py:31 >Mouse Hover : new_car_xpath
