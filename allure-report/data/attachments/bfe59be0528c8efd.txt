@@ -1,0 +1,3 @@
+INFO     Pages.BasePage:BasePage.py:31 >Mouse Hover : new_car_xpath
+INFO     Pages.BasePage:BasePage.py:17 >Clicking on a Element: find_new_car_xpath
+INFO     Pages.BasePage:BasePage.py:17 >Clicking on a Element: toyota_xpath
