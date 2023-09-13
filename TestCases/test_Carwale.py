@@ -19,7 +19,7 @@ class Test_CarWale(BaseFatherTest):
     def test_SelectCar(self,carBrand,carTitle):
         home = HomePage(self.driver)
         car = CarBasePage(self.driver)
-        print(carBrand)
+        print("Car Brand is : ",carBrand)
         if carBrand == "Maruti":
             home.go_to_new_car().goTo_maruti()
             title=car.get_title()
